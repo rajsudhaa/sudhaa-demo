@@ -1,0 +1,11 @@
+#include<studio.h>
+#include<conio.h>
+int main ()
+{
+    printf ("hello");
+    getch();
+    printf("/n");
+    getch();
+    printf ("student");
+    getch();
+}
